@@ -5,6 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Drill
+  - Cube1
+  - Cube2
+  - Cube3
+  - Cube4
+  - Cube5
+  - Cube6
+  - Cube7
+  - Cube8
+  - Cube9
   layers:
   - Default
   - TransparentFX
