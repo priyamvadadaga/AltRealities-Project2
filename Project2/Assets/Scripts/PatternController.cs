@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PatternController : MonoBehaviour
 {
-    public GameObject block;
+    public GameObject block;  
 
     public Color GetBaseColor()
     {
